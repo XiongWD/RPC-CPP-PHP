@@ -1,0 +1,21 @@
+Starting the server...
+Incoming connection
+	SocketInfo: <Host: ::1 Port: 34842>
+	PeerHost: localhost
+	PeerAddress: ::1
+	PeerPort: 34842
+ping()
+add(1, 1)
+calculate(1, Work(num1=1, num2=0, op=DIVIDE, comment=<null>))
+calculate(1, Work(num1=15, num2=10, op=SUBTRACT, comment=<null>))
+getStruct(1)
+Incoming connection
+	SocketInfo: <Host: ::1 Port: 34843>
+	PeerHost: localhost
+	PeerAddress: ::1
+	PeerPort: 34843
+ping()
+add(1, 1)
+calculate(1, Work(num1=1, num2=0, op=DIVIDE, comment=<null>))
+calculate(1, Work(num1=15, num2=10, op=SUBTRACT, comment=<null>))
+getStruct(1)
